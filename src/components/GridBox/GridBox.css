@@ -1,0 +1,14 @@
+div.board {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-template-rows: 200px 200px 200px;
+  margin: auto;
+}
+input {
+  font-size: 150px;
+  border: solid;
+}
+h1 {
+  font-size: 100px;
+  margin: auto;
+}
